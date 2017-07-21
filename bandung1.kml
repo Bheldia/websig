@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+  <name>bandung</name>
+  <description>bandung dan sekitarnya</description>
+  <Style id="style1">
+   <LineStyle>
+    <color>990000ff</color>
+    <width>4</width>
+   </LineStyle>
+  </Style>
+  <Placemark>
+   <name>bandung</name>
+   <description></description>
+   <styleUrl>#style1</styleUrl>
+   <LineString>
+    <altitudeMode>relative</altitudeMode>
+    <coordinates>
+107.6166,-6.8985
+107.6358,-6.9067
+107.6358,-6.9257
+107.6221,-6.9367
+107.5936,-6.9377
+107.5737,-6.9169
+107.5229,-6.8968
+   </coordinates>
+   </LineString>
+  </Placemark>
+ </Document>
+</kml>
